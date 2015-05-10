@@ -1,3 +1,2 @@
-# google-homepage
-# google-homepage
-# google-homepage
+# Google Homepage Exercises
+[The Odin Project]("http://www.theodinproject.com/web-development-101/html-css")
